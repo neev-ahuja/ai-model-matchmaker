@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-model-matchmaker/static/css/main.24b77b8c.css",
+    "main.js": "/ai-model-matchmaker/static/js/main.3389671c.js",
+    "index.html": "/ai-model-matchmaker/index.html",
+    "main.24b77b8c.css.map": "/ai-model-matchmaker/static/css/main.24b77b8c.css.map",
+    "main.3389671c.js.map": "/ai-model-matchmaker/static/js/main.3389671c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b77b8c.css",
+    "static/js/main.3389671c.js"
+  ]
+}
